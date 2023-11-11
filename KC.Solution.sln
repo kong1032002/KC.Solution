@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC.API", "KC.API\KC.API.csproj", "{B4E62065-D4B7-45A8-A8BD-0D8270BC8D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KC.Data", "KC.Data\KC.Data.csproj", "{5F546FDB-3D8D-4DD1-9D01-1A78ADFCE109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness", "Bussiness\Bussiness.csproj", "{6D640FF8-A1F3-4281-95CC-EB37C67C08AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E62065-D4B7-45A8-A8BD-0D8270BC8D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E62065-D4B7-45A8-A8BD-0D8270BC8D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E62065-D4B7-45A8-A8BD-0D8270BC8D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E62065-D4B7-45A8-A8BD-0D8270BC8D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F546FDB-3D8D-4DD1-9D01-1A78ADFCE109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F546FDB-3D8D-4DD1-9D01-1A78ADFCE109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F546FDB-3D8D-4DD1-9D01-1A78ADFCE109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F546FDB-3D8D-4DD1-9D01-1A78ADFCE109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D640FF8-A1F3-4281-95CC-EB37C67C08AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D640FF8-A1F3-4281-95CC-EB37C67C08AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D640FF8-A1F3-4281-95CC-EB37C67C08AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D640FF8-A1F3-4281-95CC-EB37C67C08AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A744EEBA-BC16-4ADC-B816-9001DD552FDD}
+	EndGlobalSection
+EndGlobal
